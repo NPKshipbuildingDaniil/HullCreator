@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" fill="none">
+  <!-- Hydrodynamic Ship Bow & Bulbous Hull Logo -->
+  <g stroke="#0c345c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top Sheer Deck Profile & Stem Rake -->
+    <path d="M 120 220 C 160 130, 240 70, 370 85 C 410 90, 450 100, 465 110 C 475 118, 480 135, 470 180 C 455 240, 435 295, 400 340 C 375 370, 360 400, 360 415" />
+    
+    <!-- Forecastle Deck Wedge / Facet -->
+    <path d="M 285 130 C 350 115, 420 105, 465 110 L 400 340" />
+
+    <!-- Stem Profile & Bulbous Bow Outer Contour (Бульб) -->
+    <path d="M 400 340 C 385 365, 365 390, 365 415 C 365 440, 375 460, 390 465 C 405 470, 415 455, 415 430 C 415 395, 430 365, 460 300 C 475 265, 485 220, 480 170 C 475 140, 460 120, 445 115" />
+    <path d="M 390 465 C 370 470, 330 460, 290 440 C 240 415, 200 400, 150 400" />
+
+    <!-- Transverse Frame Arcs (Шпангоутные обводы носа и развала) -->
+    <path d="M 465 130 C 450 195, 425 260, 380 300 C 350 325, 320 340, 270 345" />
+    <path d="M 455 160 C 440 225, 410 280, 370 310 C 340 330, 300 340, 240 345" />
+    <path d="M 440 195 C 420 250, 385 295, 345 320 C 310 335, 260 345, 190 350" />
+
+    <!-- Waterline / Streamline Curves (Линии тока и ватерлинии) -->
+    <!-- WL 1 (Topmost sweeping streamline) -->
+    <path d="M 100 245 C 150 170, 230 110, 350 105 C 400 103, 440 110, 465 115" />
+    
+    <!-- WL 2 -->
+    <path d="M 80 275 C 130 205, 205 145, 320 135 C 375 130, 430 135, 460 145" />
+    
+    <!-- WL 3 -->
+    <path d="M 65 305 C 115 240, 180 180, 290 168 C 355 160, 410 168, 448 185" />
+    
+    <!-- WL 4 -->
+    <path d="M 50 335 C 105 275, 165 218, 265 205 C 330 198, 385 208, 432 232" />
+    
+    <!-- WL 5 (Design waterline / flow contour) -->
+    <path d="M 42 365 C 95 310, 150 255, 245 245 C 315 238, 360 252, 412 285" />
+    
+    <!-- WL 6 (Lower flow into bulb entrance) -->
+    <path d="M 48 395 C 95 345, 145 295, 230 285 C 295 278, 340 295, 385 338" />
+    
+    <!-- WL 7 (Bulb throat streamline) -->
+    <path d="M 60 420 C 105 378, 150 335, 225 325 C 280 320, 325 338, 365 385" />
+    
+    <!-- WL 8 (Lower bulb streamline) -->
+    <path d="M 85 440 C 130 405, 175 365, 240 358 C 290 355, 335 375, 370 425" />
+  </g>
+</svg>
